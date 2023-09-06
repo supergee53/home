@@ -30,10 +30,6 @@ header {
     color: #fff;
     background-image: url('../images/Untitled101_20230828211116.png');
     background-position: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
 }
 
 header .header-content {
