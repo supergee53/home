@@ -1,4 +1,10 @@
 html,
+h1 {
+font-family: 'kanit', Arial, sans-serif;
+font-weight:normal;
+font-style:normal;
+}
+
 body {
     width: 100%;
     height: 100%;
