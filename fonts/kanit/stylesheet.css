@@ -2,35 +2,35 @@
 
 
 
-@font-face {
+/* @font-face {
     font-family: 'kanitblack';
-    src: url('/fonts/kanit/kanit-black-webfont.woff2') format('woff2'),
-         url('/fonts/kanit/kanit-black-webfont.woff') format('woff');
+    src: url('kanit-black-webfont.woff2') format('woff2'),
+         url('kanit-black-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
-}
+} */
 
 
 
 
-@font-face {
+/* @font-face {
     font-family: 'kanitextrabold';
-    src: url('/fonts/kanit/kanit-extrabold-webfont.woff2') format('woff2'),
-         url('/fonts/kanit/kanit-extrabold-webfont.woff') format('woff');
-    font-weight: normal;
+    src: url('kanit-extrabold-webfont.woff2') format('woff2'),
+         url('kanit-extrabold-webfont.woff') format('woff');
+    font-weight: 800;
     font-style: normal;
 
-}
+} */
 
 
 
 
 @font-face {
     font-family: 'kanitbold';
-    src: url('/fonts/kanit/kanit-bold-webfont.woff2') format('woff2'),
-         url('/fonts/kanit/kanit-bold-webfont.woff') format('woff');
-    font-weight: normal;
+    src: url('kanit-bold-webfont.woff2') format('woff2'),
+         url('kanit-bold-webfont.woff') format('woff');
+    font-weight: bold;
     font-style: normal;
 
 }
@@ -38,46 +38,46 @@
 
 
 
-@font-face {
+/* @font-face {
     font-family: 'kanitsemibold';
-    src: url('/fonts/kanit/kanit-semibold-webfont.woff2') format('woff2'),
-         url('/fonts/kanit/kanit-semibold-webfont.woff') format('woff');
-    font-weight: normal;
+    src: url('kanit-semibold-webfont.woff2') format('woff2'),
+         url('kanit-semibold-webfont.woff') format('woff');
+    font-weight: 600;
     font-style: normal;
 
-}
+} */
 
 
 
 
-@font-face {
+/* @font-face {
     font-family: 'kanitmedium';
-    src: url('/fonts/kanit/kanit-medium-webfont.woff2') format('woff2'),
-         url('/fonts/kanit/kanit-medium-webfont.woff') format('woff');
-    font-weight: normal;
+    src: url('kanit-medium-webfont.woff2') format('woff2'),
+         url('kanit-medium-webfont.woff') format('woff');
+    font-weight: 500;
     font-style: normal;
 
-}
+} */
 
 
 
 
-@font-face {
+/* @font-face {
     font-family: 'kanititalic';
-    src: url('/fonts/kanit/kanit-italic-webfont.woff2') format('woff2'),
-         url('/fonts/kanit/kanit-italic-webfont.woff') format('woff');
+    src: url('kanit-italic-webfont.woff2') format('woff2'),
+         url('kanit-italic-webfont.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
 
-}
+} */
 
 
 
 
 @font-face {
     font-family: 'kanitregular';
-    src: url('/fonts/kanit/kanit-regular-webfont.woff2') format('woff2'),
-         url('/fonts/kanit/kanit-regular-webfont.woff') format('woff');
+    src: url('kanit-regular-webfont.woff2') format('woff2'),
+         url('kanit-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -86,35 +86,35 @@
 
 
 
-@font-face {
+/* @font-face {
     font-family: 'kanitlight';
-    src: url('/fonts/kanit/kanit-light-webfont.woff2') format('woff2'),
-         url('/fonts/kanit/kanit-light-webfont.woff') format('woff');
-    font-weight: normal;
+    src: url('kanit-light-webfont.woff2') format('woff2'),
+         url('kanit-light-webfont.woff') format('woff');
+    font-weight: 300;
     font-style: normal;
 
-}
+} */
 
 
 
 
-@font-face {
+/* @font-face {
     font-family: 'kanitextralight';
-    src: url('/fonts/kanit/kanit-extralight-webfont.woff2') format('woff2'),
-         url('/fonts/kanit/kanit-extralight-webfont.woff') format('woff');
-    font-weight: normal;
+    src: url('kanit-extralight-webfont.woff2') format('woff2'),
+         url('kanit-extralight-webfont.woff') format('woff');
+    font-weight: 200;
     font-style: normal;
 
-}
+} */
 
 
 
 
 @font-face {
     font-family: 'kanitthin';
-    src: url('/fonts/kanit/kanit-thin-webfont.woff2') format('woff2'),
-         url('/fonts/kanit/kanit-thin-webfont.woff') format('woff');
-    font-weight: normal;
+    src: url('kanit-thin-webfont.woff2') format('woff2'),
+         url('kanit-thin-webfont.woff') format('woff');
+    font-weight: 100;
     font-style: normal;
 
 }
