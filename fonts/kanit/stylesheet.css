@@ -3,7 +3,7 @@
 
 
 /* @font-face {
-    font-family: 'kanitblack';
+    font-family: 'Kanit Black';
     src: url('kanit-black-webfont.woff2') format('woff2'),
          url('kanit-black-webfont.woff') format('woff');
     font-weight: normal;
@@ -15,7 +15,7 @@
 
 
 /* @font-face {
-    font-family: 'kanitextrabold';
+    font-family: 'Kanit Extrabold';
     src: url('kanit-extrabold-webfont.woff2') format('woff2'),
          url('kanit-extrabold-webfont.woff') format('woff');
     font-weight: 800;
@@ -27,7 +27,7 @@
 
 
 @font-face {
-    font-family: 'kanitbold';
+    font-family: 'Kanit Bold';
     src: url('kanit-bold-webfont.woff2') format('woff2'),
          url('kanit-bold-webfont.woff') format('woff');
     font-weight: bold;
@@ -39,7 +39,7 @@
 
 
 /* @font-face {
-    font-family: 'kanitsemibold';
+    font-family: 'Kanit Semibold';
     src: url('kanit-semibold-webfont.woff2') format('woff2'),
          url('kanit-semibold-webfont.woff') format('woff');
     font-weight: 600;
@@ -51,7 +51,7 @@
 
 
 /* @font-face {
-    font-family: 'kanitmedium';
+    font-family: 'Kanit Medium';
     src: url('kanit-medium-webfont.woff2') format('woff2'),
          url('kanit-medium-webfont.woff') format('woff');
     font-weight: 500;
@@ -63,7 +63,7 @@
 
 
 /* @font-face {
-    font-family: 'kanititalic';
+    font-family: 'Kanit Italic';
     src: url('kanit-italic-webfont.woff2') format('woff2'),
          url('kanit-italic-webfont.woff') format('woff');
     font-weight: normal;
@@ -75,7 +75,7 @@
 
 
 @font-face {
-    font-family: 'kanitregular';
+    font-family: 'Kanit Regular';
     src: url('kanit-regular-webfont.woff2') format('woff2'),
          url('kanit-regular-webfont.woff') format('woff');
     font-weight: normal;
@@ -87,7 +87,7 @@
 
 
 /* @font-face {
-    font-family: 'kanitlight';
+    font-family: 'Kanit Light';
     src: url('kanit-light-webfont.woff2') format('woff2'),
          url('kanit-light-webfont.woff') format('woff');
     font-weight: 300;
@@ -99,7 +99,7 @@
 
 
 /* @font-face {
-    font-family: 'kanitextralight';
+    font-family: 'Kanit Extralight';
     src: url('kanit-extralight-webfont.woff2') format('woff2'),
          url('kanit-extralight-webfont.woff') format('woff');
     font-weight: 200;
@@ -111,7 +111,7 @@
 
 
 @font-face {
-    font-family: 'kanitthin';
+    font-family: 'Kanit Thin';
     src: url('kanit-thin-webfont.woff2') format('woff2'),
          url('kanit-thin-webfont.woff') format('woff');
     font-weight: 100;

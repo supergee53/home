@@ -1,8 +1,10 @@
+@import url("../fonts/kanit/stylesheet.css");
+
 zhtml,
 body {
     width: 100%;
     height: 100%;
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: "Kanit Regular",'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
 a {
