@@ -4,7 +4,7 @@
 Although you can use them, for a more unique website, replace these images with your own. -->
 <html lang="en">
 
-<link rel="ICON" type="image/x-ico" href="images/favicon.ico"/>
+<link rel="ICON" type="image/x-ico" href="../images/favicon.ico"/>
 
 <head>
 
@@ -16,10 +16,10 @@ Although you can use them, for a more unique website, replace these images with 
     <title>supergee</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS: You can use this stylesheet to override any Bootstrap styles and/or apply your own styles -->
-    <link href="css/custom.css" rel="stylesheet">
+    <link href="../css/custom.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -35,6 +35,22 @@ Although you can use them, for a more unique website, replace these images with 
     .scaleA {
       width: 50%;
       max-width: max-content;
+    }
+    body {
+        color: orange;
+        background-color: orange;
+        height: 100%;
+    }
+    li {
+        font-size: large;
+    }
+    .intro {
+        min-height: calc(100vh - 70px);
+    }
+    .small-print {
+        background-color: orange;
+        color: white;
+        height: 50px
     }
     </style>
 
@@ -62,7 +78,7 @@ Although you can use them, for a more unique website, replace these images with 
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active">
-                        <a href="https://supergee53.github.io/home">Home</a>
+                        <a href="../index.html">Home</a>
 		    </li>
                 </ul>
                 
@@ -78,29 +94,30 @@ Although you can use them, for a more unique website, replace these images with 
         </div>
     </header>
 
-	<!-- Art -->
-	<section class="intro">
-		<ul>
-			<li>15, just a guy</li>
-			<li>I race jetskis for a living, and have been doing it for 5 years.</li>
-				<ul>
-					<li>I won the Pro Watercross National Championship last year, and placed 3rd at the IJSBA World Finals</li>
-				</ul>
-			<li>I also do digital art, I've been doing that for about a year now (I take requests :)</li>
-			<li>I'm a big car guy, especially when it comes to Mopar</li>
-				<ul>
-					<li>My dad got me a 68' Plymouth Barracuda (for $250), and we've been working on it for 3 years now.</li>
-				</ul>
-		</ul>
-	
+	<section>
+        <!-- Art -->
+        <div class="intro">
+            <ul>
+                <li>15, just a guy</li>
+                <li>I race jetskis for a living, and have been doing it for 5 years.</li>
+                <ul>
+                    <li>I won the Pro Watercross National Championship last year, and placed 3rd at the IJSBA World Finals</li>
+                </ul>
+                <li>I also do digital art, I've been doing that for about a year now (I take requests :)</li>
+                <li>I'm a big car guy, especially when it comes to Mopar</li>
+                <ul>
+                    <li>My dad got me a 68' Plymouth Barracuda (for $250), and we've been working on it for 3 years now.</li>
+                </ul>
+            </ul>
+        </div>
+            
         <!-- Copyright etc -->
         <div class="small-print">
-        	<div class="container">
-        		<p>gary holbein jr / supergee</p>
-        	</div>
+            <div class="container">
+                <p style="text-align: center;">gary holbein jr / supergee</p>
+            </div>
         </div>
-        
-    </footer>
+    </section>
 
     <!-- jQuery -->
     <script src="js/jquery-1.11.3.min.js"></script>
